@@ -174,9 +174,9 @@ providers:
         title: quiet
         description: 'Use --quiet?'
       - type: Boolean
-        name: recursive
-        title: recursive
-        description: 'Use --recursive?'
+        name: delete
+        title: delete
+        description: 'Use --delete?'
       - type: Boolean
         name: dryrun
         title: dryrun
